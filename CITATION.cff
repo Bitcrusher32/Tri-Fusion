@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Tri-Fusion: A Three-Layer Framework for Transparent Information Synthesis"
+author:
+  - family-names: Bhangu
+    given-names: Udaiveer Singh
+date-released: 2026-03-29
+version: "v1.0-conceptual"
+license: CC-BY-4.0
