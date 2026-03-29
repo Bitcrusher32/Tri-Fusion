@@ -32,7 +32,7 @@ With this architecture, Tri-Fusion assists in analyzing narrative landscapes
   - *Represents divergence analysis as indexes*
 
 ## Whitepaper Links
-(Github): TBD
+(Github): https://github.com/Bitcrusher32/Tri-Fusion/blob/main/paper
 
 (Self-Hosted): https://git.bitcrusher32.win/bitcrusher32/Tri-Fusion/src/branch/main/paper/
 
